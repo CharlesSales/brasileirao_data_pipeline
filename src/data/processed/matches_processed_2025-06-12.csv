@@ -1,0 +1,381 @@
+id,rodada,time_mandante,gols_mandante,gols_visitante,time_visitante,status,resultado
+1,1,São Paulo,0.0,0.0,Recife,Finalizado,Empate
+2,1,Cruzeiro,2.0,1.0,Mirassol,Finalizado,Mandante
+3,1,Grêmio,2.0,1.0,Mineiro,Finalizado,Mandante
+4,1,Fortaleza,2.0,0.0,Fluminense,Finalizado,Mandante
+5,1,Juventude,2.0,0.0,Vitória,Finalizado,Mandante
+6,1,Flamengo,1.0,1.0,Internacional,Finalizado,Empate
+7,1,Palmeiras,0.0,0.0,Botafogo,Finalizado,Empate
+8,1,Vasco da Gama,2.0,1.0,Santos,Finalizado,Mandante
+9,1,Bahia,1.0,1.0,Corinthians,Finalizado,Empate
+10,1,Bragantino,2.0,2.0,Ceará,Finalizado,Empate
+11,2,Corinthians,3.0,0.0,Vasco da Gama,Finalizado,Mandante
+12,2,Ceará,2.0,0.0,Grêmio,Finalizado,Mandante
+13,2,Botafogo,2.0,0.0,Juventude,Finalizado,Mandante
+14,2,Fluminense,2.0,1.0,Bragantino,Finalizado,Mandante
+15,2,Mineiro,0.0,0.0,São Paulo,Finalizado,Empate
+16,2,Mirassol,1.0,1.0,Fortaleza,Finalizado,Empate
+17,2,Internacional,3.0,0.0,Cruzeiro,Finalizado,Mandante
+18,2,Vitória,1.0,2.0,Flamengo,Finalizado,Visitante
+19,2,Recife,1.0,2.0,Palmeiras,Finalizado,Visitante
+20,2,Santos,2.0,2.0,Bahia,Finalizado,Empate
+21,3,Bragantino,1.0,0.0,Botafogo,Finalizado,Mandante
+22,3,Juventude,2.0,1.0,Ceará,Finalizado,Mandante
+23,3,Palmeiras,2.0,0.0,Corinthians,Finalizado,Mandante
+24,3,Vasco da Gama,3.0,1.0,Recife,Finalizado,Mandante
+25,3,Bahia,1.0,1.0,Mirassol,Finalizado,Empate
+26,3,São Paulo,1.0,1.0,Cruzeiro,Finalizado,Empate
+27,3,Grêmio,0.0,2.0,Flamengo,Finalizado,Visitante
+28,3,Fluminense,1.0,0.0,Santos,Finalizado,Mandante
+29,3,Fortaleza,0.0,0.0,Internacional,Finalizado,Empate
+30,3,Mineiro,2.0,2.0,Vitória,Finalizado,Empate
+31,4,Ceará,2.0,1.0,Vasco da Gama,Finalizado,Mandante
+32,4,Botafogo,2.0,2.0,São Paulo,Finalizado,Empate
+33,4,Mirassol,4.0,1.0,Grêmio,Finalizado,Mandante
+34,4,Recife,0.0,1.0,Bragantino,Finalizado,Visitante
+35,4,Corinthians,0.0,2.0,Fluminense,Finalizado,Visitante
+36,4,Internacional,0.0,1.0,Palmeiras,Finalizado,Visitante
+37,4,Flamengo,6.0,0.0,Juventude,Finalizado,Mandante
+38,4,Santos,2.0,0.0,Mineiro,Finalizado,Mandante
+39,4,Vitória,2.0,1.0,Fortaleza,Finalizado,Mandante
+40,4,Cruzeiro,3.0,0.0,Bahia,Finalizado,Mandante
+41,5,Corinthians,2.0,1.0,Recife,Finalizado,Mandante
+42,5,Vasco da Gama,0.0,0.0,Flamengo,Finalizado,Empate
+43,5,Grêmio,1.0,1.0,Internacional,Finalizado,Empate
+44,5,Juventude,2.0,2.0,Mirassol,Finalizado,Empate
+45,5,São Paulo,2.0,1.0,Santos,Finalizado,Mandante
+46,5,Mineiro,1.0,0.0,Botafogo,Finalizado,Mandante
+47,5,Fluminense,1.0,1.0,Vitória,Finalizado,Empate
+48,5,Fortaleza,1.0,2.0,Palmeiras,Finalizado,Visitante
+49,5,Bragantino,1.0,0.0,Cruzeiro,Finalizado,Mandante
+50,5,Bahia,1.0,0.0,Ceará,Finalizado,Mandante
+51,6,Internacional,3.0,1.0,Juventude,Finalizado,Mandante
+52,6,Mirassol,2.0,2.0,Mineiro,Finalizado,Empate
+53,6,Ceará,1.0,1.0,São Paulo,Finalizado,Empate
+54,6,Recife,0.0,0.0,Fortaleza,Finalizado,Empate
+55,6,Botafogo,2.0,0.0,Fluminense,Finalizado,Mandante
+56,6,Flamengo,4.0,0.0,Corinthians,Finalizado,Mandante
+57,6,Palmeiras,0.0,1.0,Bahia,Finalizado,Visitante
+58,6,Cruzeiro,1.0,0.0,Vasco da Gama,Finalizado,Mandante
+59,6,Vitória,1.0,1.0,Grêmio,Finalizado,Empate
+60,6,Santos,1.0,2.0,Bragantino,Finalizado,Visitante
+61,7,São Paulo,0.0,0.0,Fortaleza,Finalizado,Empate
+62,7,Fluminense,2.0,1.0,Recife,Finalizado,Mandante
+63,7,Corinthians,4.0,2.0,Internacional,Finalizado,Mandante
+64,7,Ceará,1.0,0.0,Vitória,Finalizado,Mandante
+65,7,Bahia,1.0,0.0,Botafogo,Finalizado,Mandante
+66,7,Vasco da Gama,0.0,1.0,Palmeiras,Finalizado,Visitante
+67,7,Grêmio,1.0,0.0,Santos,Finalizado,Mandante
+68,7,Cruzeiro,2.0,1.0,Flamengo,Finalizado,Mandante
+69,7,Bragantino,1.0,0.0,Mirassol,Finalizado,Mandante
+70,7,Juventude,0.0,1.0,Mineiro,Finalizado,Visitante
+71,8,Fortaleza,5.0,0.0,Juventude,Finalizado,Mandante
+72,8,Mirassol,2.0,1.0,Corinthians,Finalizado,Mandante
+73,8,Grêmio,1.0,1.0,Bragantino,Finalizado,Empate
+74,8,Vitória,2.0,1.0,Vasco da Gama,Finalizado,Mandante
+75,8,Flamengo,1.0,0.0,Bahia,Finalizado,Mandante
+76,8,Recife,0.0,4.0,Cruzeiro,Finalizado,Visitante
+77,8,Palmeiras,1.0,0.0,São Paulo,Finalizado,Mandante
+78,8,Mineiro,3.0,2.0,Fluminense,Finalizado,Mandante
+79,8,Botafogo,4.0,0.0,Internacional,Finalizado,Mandante
+80,8,Santos,0.0,0.0,Ceará,Finalizado,Empate
+81,9,Ceará,2.0,0.0,Recife,Finalizado,Mandante
+82,9,Vasco da Gama,3.0,0.0,Fortaleza,Finalizado,Mandante
+83,9,São Paulo,2.0,1.0,Grêmio,Finalizado,Mandante
+84,9,Corinthians,1.0,0.0,Santos,Finalizado,Mandante
+85,9,Bahia,2.0,1.0,Vitória,Finalizado,Mandante
+86,9,Juventude,1.0,1.0,Fluminense,Finalizado,Empate
+87,9,Flamengo,0.0,0.0,Botafogo,Finalizado,Empate
+88,9,Bragantino,1.0,2.0,Palmeiras,Finalizado,Visitante
+89,9,Cruzeiro,0.0,0.0,Mineiro,Finalizado,Empate
+90,9,Internacional,1.0,1.0,Mirassol,Finalizado,Empate
+91,10,Fluminense,,,Vasco da Gama,TIMED,
+92,10,São Paulo,,,Mirassol,TIMED,
+93,10,Mineiro,,,Corinthians,TIMED,
+94,10,Grêmio,,,Bahia,TIMED,
+95,10,Palmeiras,,,Flamengo,TIMED,
+96,10,Recife,,,Internacional,TIMED,
+97,10,Vitória,,,Santos,TIMED,
+98,10,Fortaleza,,,Cruzeiro,TIMED,
+99,10,Bragantino,,,Juventude,TIMED,
+100,11,Bahia,2.0,1.0,São Paulo,Finalizado,Mandante
+101,11,Vasco da Gama,0.0,2.0,Bragantino,Finalizado,Visitante
+102,11,Mirassol,1.0,0.0,Recife,Finalizado,Mandante
+103,11,Juventude,0.0,2.0,Grêmio,Finalizado,Visitante
+104,11,Santos,0.0,1.0,Botafogo,Finalizado,Visitante
+105,11,Ceará,0.0,1.0,Mineiro,Finalizado,Visitante
+106,11,Flamengo,5.0,0.0,Fortaleza,Finalizado,Mandante
+107,11,Corinthians,0.0,0.0,Vitória,Finalizado,Empate
+108,11,Cruzeiro,2.0,1.0,Palmeiras,Finalizado,Mandante
+109,11,Internacional,0.0,2.0,Fluminense,Finalizado,Visitante
+110,10,Botafogo,3.0,2.0,Ceará,Finalizado,Mandante
+111,12,Fluminense,,,Ceará,POSTPONED,
+112,12,Botafogo,,,Mirassol,POSTPONED,
+113,12,Palmeiras,,,Juventude,POSTPONED,
+114,12,Recife,,,Flamengo,POSTPONED,
+115,12,Bragantino,,,Bahia,TIMED,
+116,12,Vitória,,,Cruzeiro,TIMED,
+117,12,Fortaleza,,,Santos,TIMED,
+118,12,Grêmio,,,Corinthians,TIMED,
+119,12,São Paulo,,,Vasco da Gama,TIMED,
+120,12,Mineiro,,,Internacional,TIMED,
+121,13,Flamengo,,,São Paulo,Agendado,
+122,13,Vasco da Gama,,,Botafogo,Agendado,
+123,13,Corinthians,,,Bragantino,Agendado,
+124,13,Santos,,,Palmeiras,Agendado,
+125,13,Mirassol,,,Fluminense,Agendado,
+126,13,Cruzeiro,,,Grêmio,Agendado,
+127,13,Internacional,,,Vitória,Agendado,
+128,13,Bahia,,,Mineiro,Agendado,
+129,13,Fortaleza,,,Ceará,Agendado,
+130,13,Juventude,,,Recife,Agendado,
+131,14,Fluminense,,,Cruzeiro,Agendado,
+132,14,Botafogo,,,Vitória,Agendado,
+133,14,Palmeiras,,,Mirassol,Agendado,
+134,14,Santos,,,Flamengo,Agendado,
+135,14,Bragantino,,,São Paulo,Agendado,
+136,14,Mineiro,,,Recife,Agendado,
+137,14,Grêmio,,,Fortaleza,Agendado,
+138,14,Bahia,,,Internacional,Agendado,
+139,14,Ceará,,,Corinthians,Agendado,
+140,14,Juventude,,,Vasco da Gama,Agendado,
+141,15,Flamengo,,,Fluminense,Agendado,
+142,15,Vasco da Gama,,,Grêmio,Agendado,
+143,15,Palmeiras,,,Mineiro,Agendado,
+144,15,São Paulo,,,Corinthians,Agendado,
+145,15,Mirassol,,,Santos,Agendado,
+146,15,Cruzeiro,,,Juventude,Agendado,
+147,15,Internacional,,,Ceará,Agendado,
+148,15,Vitória,,,Bragantino,Agendado,
+149,15,Fortaleza,,,Bahia,Agendado,
+150,15,Recife,,,Botafogo,Agendado,
+151,16,Fluminense,,,Palmeiras,Agendado,
+152,16,Vasco da Gama,,,Bahia,Agendado,
+153,16,Corinthians,,,Cruzeiro,Agendado,
+154,16,Santos,,,Internacional,Agendado,
+155,16,Bragantino,,,Flamengo,Agendado,
+156,16,Mineiro,,,Fortaleza,Agendado,
+157,16,Grêmio,,,Botafogo,Agendado,
+158,16,Vitória,,,Recife,Agendado,
+159,16,Ceará,,,Mirassol,Agendado,
+160,16,Juventude,,,São Paulo,Agendado,
+161,17,Flamengo,,,Mineiro,Agendado,
+162,17,Botafogo,,,Corinthians,Agendado,
+163,17,Palmeiras,,,Grêmio,Agendado,
+164,17,São Paulo,,,Fluminense,Agendado,
+165,17,Mirassol,,,Vitória,Agendado,
+166,17,Cruzeiro,,,Ceará,Agendado,
+167,17,Internacional,,,Vasco da Gama,Agendado,
+168,17,Bahia,,,Juventude,Agendado,
+169,17,Fortaleza,,,Bragantino,Agendado,
+170,17,Recife,,,Santos,Agendado,
+171,18,Fluminense,,,Grêmio,Agendado,
+172,18,Botafogo,,,Cruzeiro,Agendado,
+173,18,Corinthians,,,Fortaleza,Agendado,
+174,18,Santos,,,Juventude,Agendado,
+175,18,Mirassol,,,Vasco da Gama,Agendado,
+176,18,Mineiro,,,Bragantino,Agendado,
+177,18,Internacional,,,São Paulo,Agendado,
+178,18,Vitória,,,Palmeiras,Agendado,
+179,18,Ceará,,,Flamengo,Agendado,
+180,18,Recife,,,Bahia,Agendado,
+181,19,Flamengo,,,Mirassol,Agendado,
+182,19,Vasco da Gama,,,Mineiro,Agendado,
+183,19,Palmeiras,,,Ceará,Agendado,
+184,19,São Paulo,,,Vitória,Agendado,
+185,19,Bragantino,,,Internacional,Agendado,
+186,19,Cruzeiro,,,Santos,Agendado,
+187,19,Grêmio,,,Recife,Agendado,
+188,19,Bahia,,,Fluminense,Agendado,
+189,19,Fortaleza,,,Botafogo,Agendado,
+190,19,Juventude,,,Corinthians,Agendado,
+191,20,Fluminense,,,Fortaleza,Agendado,
+192,20,Botafogo,,,Palmeiras,Agendado,
+193,20,Corinthians,,,Bahia,Agendado,
+194,20,Santos,,,Vasco da Gama,Agendado,
+195,20,Mirassol,,,Cruzeiro,Agendado,
+196,20,Mineiro,,,Grêmio,Agendado,
+197,20,Internacional,,,Flamengo,Agendado,
+198,20,Vitória,,,Juventude,Agendado,
+199,20,Ceará,,,Bragantino,Agendado,
+200,20,Recife,,,São Paulo,Agendado,
+201,21,Flamengo,,,Vitória,Agendado,
+202,21,Vasco da Gama,,,Corinthians,Agendado,
+203,21,Palmeiras,,,Recife,Agendado,
+204,21,São Paulo,,,Mineiro,Agendado,
+205,21,Bragantino,,,Fluminense,Agendado,
+206,21,Cruzeiro,,,Internacional,Agendado,
+207,21,Grêmio,,,Ceará,Agendado,
+208,21,Bahia,,,Santos,Agendado,
+209,21,Fortaleza,,,Mirassol,Agendado,
+210,21,Juventude,,,Botafogo,Agendado,
+211,22,Flamengo,,,Grêmio,Agendado,
+212,22,Botafogo,,,Bragantino,Agendado,
+213,22,Corinthians,,,Palmeiras,Agendado,
+214,22,Santos,,,Fluminense,Agendado,
+215,22,Mirassol,,,Bahia,Agendado,
+216,22,Cruzeiro,,,São Paulo,Agendado,
+217,22,Internacional,,,Fortaleza,Agendado,
+218,22,Vitória,,,Mineiro,Agendado,
+219,22,Ceará,,,Juventude,Agendado,
+220,22,Recife,,,Vasco da Gama,Agendado,
+221,23,Fluminense,,,Corinthians,Agendado,
+222,23,Vasco da Gama,,,Ceará,Agendado,
+223,23,Palmeiras,,,Internacional,Agendado,
+224,23,São Paulo,,,Botafogo,Agendado,
+225,23,Bragantino,,,Recife,Agendado,
+226,23,Mineiro,,,Santos,Agendado,
+227,23,Grêmio,,,Mirassol,Agendado,
+228,23,Bahia,,,Cruzeiro,Agendado,
+229,23,Fortaleza,,,Vitória,Agendado,
+230,23,Juventude,,,Flamengo,Agendado,
+231,24,Flamengo,,,Vasco da Gama,Agendado,
+232,24,Botafogo,,,Mineiro,Agendado,
+233,24,Palmeiras,,,Fortaleza,Agendado,
+234,24,Santos,,,São Paulo,Agendado,
+235,24,Mirassol,,,Juventude,Agendado,
+236,24,Cruzeiro,,,Bragantino,Agendado,
+237,24,Internacional,,,Grêmio,Agendado,
+238,24,Vitória,,,Fluminense,Agendado,
+239,24,Ceará,,,Bahia,Agendado,
+240,24,Recife,,,Corinthians,Agendado,
+241,25,Fluminense,,,Botafogo,Agendado,
+242,25,Vasco da Gama,,,Cruzeiro,Agendado,
+243,25,Corinthians,,,Flamengo,Agendado,
+244,25,São Paulo,,,Ceará,Agendado,
+245,25,Bragantino,,,Santos,Agendado,
+246,25,Mineiro,,,Mirassol,Agendado,
+247,25,Grêmio,,,Vitória,Agendado,
+248,25,Bahia,,,Palmeiras,Agendado,
+249,25,Fortaleza,,,Recife,Agendado,
+250,25,Juventude,,,Internacional,Agendado,
+251,26,Flamengo,,,Cruzeiro,Agendado,
+252,26,Botafogo,,,Bahia,Agendado,
+253,26,Palmeiras,,,Vasco da Gama,Agendado,
+254,26,Santos,,,Grêmio,Agendado,
+255,26,Mirassol,,,Bragantino,Agendado,
+256,26,Mineiro,,,Juventude,Agendado,
+257,26,Internacional,,,Corinthians,Agendado,
+258,26,Vitória,,,Ceará,Agendado,
+259,26,Fortaleza,,,São Paulo,Agendado,
+260,26,Recife,,,Fluminense,Agendado,
+261,27,Fluminense,,,Mineiro,Agendado,
+262,27,Vasco da Gama,,,Vitória,Agendado,
+263,27,Corinthians,,,Mirassol,Agendado,
+264,27,São Paulo,,,Palmeiras,Agendado,
+265,27,Bragantino,,,Grêmio,Agendado,
+266,27,Cruzeiro,,,Recife,Agendado,
+267,27,Internacional,,,Botafogo,Agendado,
+268,27,Bahia,,,Flamengo,Agendado,
+269,27,Ceará,,,Santos,Agendado,
+270,27,Juventude,,,Fortaleza,Agendado,
+271,28,Fluminense,,,Juventude,Agendado,
+272,28,Botafogo,,,Flamengo,Agendado,
+273,28,Palmeiras,,,Bragantino,Agendado,
+274,28,Santos,,,Corinthians,Agendado,
+275,28,Mirassol,,,Internacional,Agendado,
+276,28,Mineiro,,,Cruzeiro,Agendado,
+277,28,Grêmio,,,São Paulo,Agendado,
+278,28,Vitória,,,Bahia,Agendado,
+279,28,Fortaleza,,,Vasco da Gama,Agendado,
+280,28,Recife,,,Ceará,Agendado,
+281,29,Flamengo,,,Palmeiras,Agendado,
+282,29,Vasco da Gama,,,Fluminense,Agendado,
+283,29,Corinthians,,,Mineiro,Agendado,
+284,29,Santos,,,Vitória,Agendado,
+285,29,Mirassol,,,São Paulo,Agendado,
+286,29,Cruzeiro,,,Fortaleza,Agendado,
+287,29,Internacional,,,Recife,Agendado,
+288,29,Bahia,,,Grêmio,Agendado,
+289,29,Ceará,,,Botafogo,Agendado,
+290,29,Juventude,,,Bragantino,Agendado,
+291,30,Fluminense,,,Internacional,Agendado,
+292,30,Botafogo,,,Santos,Agendado,
+293,30,Palmeiras,,,Cruzeiro,Agendado,
+294,30,São Paulo,,,Bahia,Agendado,
+295,30,Bragantino,,,Vasco da Gama,Agendado,
+296,30,Mineiro,,,Ceará,Agendado,
+297,30,Grêmio,,,Juventude,Agendado,
+298,30,Vitória,,,Corinthians,Agendado,
+299,30,Fortaleza,,,Flamengo,Agendado,
+300,30,Recife,,,Mirassol,Agendado,
+301,31,Flamengo,,,Recife,Agendado,
+302,31,Vasco da Gama,,,São Paulo,Agendado,
+303,31,Corinthians,,,Grêmio,Agendado,
+304,31,Santos,,,Fortaleza,Agendado,
+305,31,Mirassol,,,Botafogo,Agendado,
+306,31,Cruzeiro,,,Vitória,Agendado,
+307,31,Internacional,,,Mineiro,Agendado,
+308,31,Bahia,,,Bragantino,Agendado,
+309,31,Ceará,,,Fluminense,Agendado,
+310,31,Juventude,,,Palmeiras,Agendado,
+311,32,Fluminense,,,Mirassol,Agendado,
+312,32,Botafogo,,,Vasco da Gama,Agendado,
+313,32,Palmeiras,,,Santos,Agendado,
+314,32,São Paulo,,,Flamengo,Agendado,
+315,32,Bragantino,,,Corinthians,Agendado,
+316,32,Mineiro,,,Bahia,Agendado,
+317,32,Grêmio,,,Cruzeiro,Agendado,
+318,32,Vitória,,,Internacional,Agendado,
+319,32,Ceará,,,Fortaleza,Agendado,
+320,32,Recife,,,Juventude,Agendado,
+321,33,Flamengo,,,Santos,Agendado,
+322,33,Vasco da Gama,,,Juventude,Agendado,
+323,33,Corinthians,,,Ceará,Agendado,
+324,33,São Paulo,,,Bragantino,Agendado,
+325,33,Mirassol,,,Palmeiras,Agendado,
+326,33,Cruzeiro,,,Fluminense,Agendado,
+327,33,Internacional,,,Bahia,Agendado,
+328,33,Vitória,,,Botafogo,Agendado,
+329,33,Fortaleza,,,Grêmio,Agendado,
+330,33,Recife,,,Mineiro,Agendado,
+331,34,Fluminense,,,Flamengo,Agendado,
+332,34,Botafogo,,,Recife,Agendado,
+333,34,Corinthians,,,São Paulo,Agendado,
+334,34,Santos,,,Mirassol,Agendado,
+335,34,Bragantino,,,Vitória,Agendado,
+336,34,Mineiro,,,Palmeiras,Agendado,
+337,34,Grêmio,,,Vasco da Gama,Agendado,
+338,34,Bahia,,,Fortaleza,Agendado,
+339,34,Ceará,,,Internacional,Agendado,
+340,34,Juventude,,,Cruzeiro,Agendado,
+341,35,Flamengo,,,Bragantino,Agendado,
+342,35,Botafogo,,,Grêmio,Agendado,
+343,35,Palmeiras,,,Fluminense,Agendado,
+344,35,São Paulo,,,Juventude,Agendado,
+345,35,Mirassol,,,Ceará,Agendado,
+346,35,Cruzeiro,,,Corinthians,Agendado,
+347,35,Internacional,,,Santos,Agendado,
+348,35,Bahia,,,Vasco da Gama,Agendado,
+349,35,Fortaleza,,,Mineiro,Agendado,
+350,35,Recife,,,Vitória,Agendado,
+351,36,Fluminense,,,São Paulo,Agendado,
+352,36,Vasco da Gama,,,Internacional,Agendado,
+353,36,Corinthians,,,Botafogo,Agendado,
+354,36,Santos,,,Recife,Agendado,
+355,36,Bragantino,,,Fortaleza,Agendado,
+356,36,Mineiro,,,Flamengo,Agendado,
+357,36,Grêmio,,,Palmeiras,Agendado,
+358,36,Vitória,,,Mirassol,Agendado,
+359,36,Ceará,,,Cruzeiro,Agendado,
+360,36,Juventude,,,Bahia,Agendado,
+361,37,Vasco da Gama,,,Mirassol,Agendado,
+362,37,Palmeiras,,,Vitória,Agendado,
+363,37,São Paulo,,,Internacional,Agendado,
+364,37,Bragantino,,,Mineiro,Agendado,
+365,37,Cruzeiro,,,Botafogo,Agendado,
+366,37,Grêmio,,,Fluminense,Agendado,
+367,37,Bahia,,,Recife,Agendado,
+368,37,Fortaleza,,,Corinthians,Agendado,
+369,37,Juventude,,,Santos,Agendado,
+370,37,Flamengo,,,Ceará,Agendado,
+371,38,Fluminense,,,Bahia,Agendado,
+372,38,Botafogo,,,Fortaleza,Agendado,
+373,38,Corinthians,,,Juventude,Agendado,
+374,38,Santos,,,Cruzeiro,Agendado,
+375,38,Mirassol,,,Flamengo,Agendado,
+376,38,Mineiro,,,Vasco da Gama,Agendado,
+377,38,Internacional,,,Bragantino,Agendado,
+378,38,Vitória,,,São Paulo,Agendado,
+379,38,Ceará,,,Palmeiras,Agendado,
+380,38,Recife,,,Grêmio,Agendado,
