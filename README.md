@@ -54,8 +54,6 @@ Ele coleta dados automaticamente da API [Football-Data.org](https://www.football
 - Requests
 - dotenv
 - JSON / CSV
-- (Futuramente: Azure / n8n para automação)
-
 ---
 
 ## ⚙️ Como Rodar Localmente
